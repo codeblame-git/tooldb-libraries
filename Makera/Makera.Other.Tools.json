@@ -34,7 +34,7 @@
     "feed_out": 600.0,
     "clockwise": true,
     "protrusion": 38.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -72,7 +72,7 @@
     "feed_out": 400.0,
     "clockwise": true,
     "protrusion": 46.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   }
 ]

@@ -34,7 +34,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -72,7 +72,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -110,7 +110,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -148,7 +148,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -186,7 +186,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -224,7 +224,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -262,7 +262,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -300,7 +300,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -338,7 +338,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -376,7 +376,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -414,7 +414,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -452,7 +452,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -490,7 +490,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -528,7 +528,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -566,7 +566,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -604,7 +604,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -642,7 +642,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -680,7 +680,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -718,7 +718,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   },
   {
@@ -756,7 +756,7 @@
     "feed_out": 500.0,
     "clockwise": true,
     "protrusion": 32.0,
-    "tapered_type": "taperedbullnose",
+    "tapered_type": "None",
     "unit": "millimeters"
   }
 ]
